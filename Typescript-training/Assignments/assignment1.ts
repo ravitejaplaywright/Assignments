@@ -33,7 +33,7 @@ console.log(`Coordinates of a location (latitude, longitude): ${loc}`);
 
 interface persontemp {
     
-     "name" : string,
+    "name" : string,
     "occ" : string,
     "colour" : string,
     "status" : boolean
